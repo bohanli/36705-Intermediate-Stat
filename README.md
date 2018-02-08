@@ -3,6 +3,10 @@
 
 Course homepage: http://www.stat.cmu.edu/~siva/705/main.html
 
+## Review
+
+[My Review](./review.pdf)
+
 ## Lecture Notes
 - [Lecture 1](./lecture_notes/lec1.pdf): (8/28) A very brief review
 
